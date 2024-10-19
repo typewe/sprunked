@@ -1,0 +1,16 @@
+{
+  "name": "sprunked-incredibox",
+  "version": "1.0.0",
+  "description": "Sprunked.io: Play Sprunked Incredibox Game Online For Free",
+  "main": "index.js",
+  "bin": {
+    "sprunked-incredibox": "./index.js"
+  },
+  "keywords": [
+    "sprunked",
+    "incredibox",
+    "sprunked incredibox"
+  ],
+  "author": "sprunked",
+  "license": "ISC"
+}
